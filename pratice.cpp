@@ -13,5 +13,7 @@ int main()
 		cout<<"names are equal";
 	}
 	else
+	{
 	cout<<"name are not equal";
+	}
 }
